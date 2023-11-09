@@ -1,0 +1,15 @@
+.points__table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.points__table th,
+.points__table td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+.points__table th {
+  background-color: lightgray;
+}
